@@ -31,6 +31,15 @@ footer {
     background-color: $gray-200;
 }
 
+// Drop caps
+.article-body:first-letter {
+    float: left;
+    font-size: 85px;
+    line-height: .8;
+    padding-top: 2px;
+    margin-right: 8px;
+}
+
 // p, ul, li {
 //     font-size: $body-text-size;
 // }

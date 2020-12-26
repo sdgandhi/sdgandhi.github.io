@@ -3,7 +3,7 @@ layout: post
 author: "sg"
 # image: https://i.imgur.com/qAPFDRr.jpg
 date:   2020-12-12
-notion: https://www.notion.so/The-Experimental-Generation-of-Interpersonal-Closeness-or-How-to-fall-in-love-3e9d348129904a098b59a210ea68e9b5
+notion: https://www.notion.so/The-Experimental-Generation-of-Interpersonal-Closeness-3e9d348129904a098b59a210ea68e9b5
 ---
 
 In January of 2015 in the Modern Love section of The New York Times, Mandy Len Catron wrote about a psychology study on interpersonal closeness that she tried in her own life which resulted in her getting close to (and eventually marrying) an acquaintance of hers.
