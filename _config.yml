@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 'sg.life blog'
 email: ''
-description: "Unraveling life's many 'what ifs'"
+description: "Unraveling 'what ifs'"
 repository: "sdgandhi/sdgandhi.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://whatif.sg.life" # the base hostname & protocol for your site, e.g. http://example.com
