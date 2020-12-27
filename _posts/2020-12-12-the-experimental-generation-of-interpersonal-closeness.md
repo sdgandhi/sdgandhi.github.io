@@ -1,9 +1,10 @@
 ---
 layout: post
-author: "sg"
+author: sg
 image: https://i.imgur.com/eZmUPy9.png
 date:   2020-12-12
 notion: https://www.notion.so/The-Experimental-Generation-of-Interpersonal-Closeness-3e9d348129904a098b59a210ea68e9b5
+title: What if we became best friends with everyone we met?
 ---
 
 In the Modern Love section of *The New York Times* in January of 2015, Mandy Len Catron wrote about a psychology experiment on interpersonal closeness that she tried in her own life which resulted in her getting close to (and eventually marrying) an acquaintance of hers.
