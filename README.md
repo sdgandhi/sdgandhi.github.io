@@ -3,6 +3,10 @@
 Website runs on github pages.
 
 # Add a post
+## Use `jekyll-admin`
+- visit `localhost:4000/admin`
+
+## Manually
 - Copy existing publication from `_posts` folder (copy as raw)
 - Create new file with `YYYY-MM-DD-Title-Of-Post` in `_posts` directory
 - Paste text and change title and date
@@ -27,3 +31,4 @@ Website runs on github pages.
 - `bundle update`
 - `bundle install`
 - `bundle exec jekyll serve --future --livereload`
+- visit `localhost:4000/admin`
