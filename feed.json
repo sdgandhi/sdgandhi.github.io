@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test-blog",
+    "description": "",
+    "home_page_url": "https://sdgandhi.github.io",
+    "feed_url": "https://sdgandhi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sg"
+    },
+    "items": [
+        {
+            "id": "https://sdgandhi.github.io/this-is-my-first-blog-post-here/",
+            "url": "https://sdgandhi.github.io/this-is-my-first-blog-post-here/",
+            "title": "This is my first blog post here",
+            "summary": " Wow, what an experience. It's a block-based editor. makeAmazingThingHappen()",
+            "content_html": "\n  <p>\n    Wow, what an experience. It's a block-based editor.\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>Be the best you can be.</blockquote>\n      <figcaption>sg</figcaption>\n    </figure>\n<pre class=\"line-numbers  language-html\"><code>makeAmazingThingHappen()</code></pre>",
+            "author": {
+                "name": "sg"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-26T19:28:06-08:00",
+            "date_modified": "2020-12-26T20:01:06-08:00"
+        }
+    ]
+}
