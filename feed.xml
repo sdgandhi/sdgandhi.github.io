@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>What If</title>
+    <title>What If...</title>
     <link href="https://sdgandhi.github.io/feed.xml" rel="self" />
     <link href="https://sdgandhi.github.io" />
-    <updated>2020-12-28T13:21:32-08:00</updated>
+    <updated>2020-12-28T14:00:21-08:00</updated>
     <author>
         <name>sg</name>
     </author>
@@ -17,17 +17,26 @@
         <link href="https://sdgandhi.github.io/what-if-we-became-best-friends-with-everyone-we-met/"/>
         <id>https://sdgandhi.github.io/what-if-we-became-best-friends-with-everyone-we-met/</id>
 
-        <updated>2020-12-28T13:21:32-08:00</updated>
+        <updated>2020-12-28T14:00:21-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sdgandhi.github.io/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
-                     In the Modern Love section of The New York Times in January of 2015, Mandy Len Catron wrote about a psychology experiment on interpersonal closeness that she tried in her own life which resulted in her getting close to (and eventually marrying) an acquaintance&hellip;
+                    
+  <p>
+    TLDR: I created <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank" rel="nofollow noopener">an app</a> that implements a psychology research paper to <b>make two people feel closer</b> by answering a specific series of increasingly personal questions.
+  </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://sdgandhi.github.io/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
                 
+  <p>
+    TLDR: I created <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank" rel="nofollow noopener">an app</a> that implements a psychology research paper to <b>make two people feel closer</b> by answering a specific series of increasingly personal questions.
+  </p>
+<hr id="read-more" />
+
   <p>
     In the Modern Love section of <i>The New York Times</i> in January of 2015, Mandy Len Catron wrote about a psychology experiment on interpersonal closeness that she tried in her own life which resulted in her getting close to (and eventually marrying) an acquaintance of hers.<br><br>I've become fascinated with efficiently using the time I'm physically with people. Mixing 'efficiency' and 'friendship' seem to bring a bad taste into people's mouth, the argument being friendship doesn't need to be efficient, it's a casual and natural social phenomenon. However, because I find myself with increasingly limited and 'scheduled' time with friends, I find efficiency to be an alluring topic with regards to getting closer to my friends and family.
   </p>
