@@ -1,26 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>What If...</title>
-    <link href="https://sdgandhi.github.io/feed.xml" rel="self" />
-    <link href="https://sdgandhi.github.io" />
-    <updated>2020-12-28T14:00:21-08:00</updated>
+    <title>sg.life</title>
+    <link href="https://sg.life/feed.xml" rel="self" />
+    <link href="https://sg.life" />
+    <updated>2021-01-14T11:42:49-10:00</updated>
     <author>
         <name>sg</name>
     </author>
-    <id>https://sdgandhi.github.io</id>
+    <id>https://sg.life</id>
 
+    <entry>
+        <title>What if we valued people over profiles?</title>
+        <author>
+            <name>sg</name>
+        </author>
+        <link href="https://sg.life/what-if-we-valued-people-over-profiles/"/>
+        <id>https://sg.life/what-if-we-valued-people-over-profiles/</id>
+
+        <updated>2021-01-14T11:42:49-10:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
+
+<p>If we could keep in touch with our loved ones we would have more fulfilling relationships and feel less lonely. <em>Ketchup</em> helps you do just that, keep in touch. Not with profiles, but with meaningful conversations...like the old days.</p>
+<p><a href="https://ketchup.newnoetic.com" title="Check out Ketchup ↗" target="_blank" rel="noopener noreferrer">Check out Ketchup ↗</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What if we became best friends with everyone we met?</title>
         <author>
             <name>sg</name>
         </author>
-        <link href="https://sdgandhi.github.io/what-if-we-became-best-friends-with-everyone-we-met/"/>
-        <id>https://sdgandhi.github.io/what-if-we-became-best-friends-with-everyone-we-met/</id>
+        <link href="https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/"/>
+        <id>https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/</id>
+            <category term="What if"/>
 
-        <updated>2020-12-28T14:00:21-08:00</updated>
+        <updated>2021-01-14T11:15:53-10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sdgandhi.github.io/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
+                        <img src="https://sg.life/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
                     
   <p>
     TLDR: I created <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank" rel="nofollow noopener">an app</a> that implements a psychology research paper to <b>make two people feel closer</b> by answering a specific series of increasingly personal questions.
@@ -30,7 +55,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sdgandhi.github.io/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
+                    <img src="https://sg.life/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
                 
   <p>
     TLDR: I created <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank" rel="nofollow noopener">an app</a> that implements a psychology research paper to <b>make two people feel closer</b> by answering a specific series of increasingly personal questions.

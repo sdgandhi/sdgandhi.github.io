@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://sdgandhi.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://sg.life/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://sdgandhi.github.io/</loc>
+<loc>https://sg.life/</loc>
 </url>
 <url>
-<loc>https://sdgandhi.github.io/what-if-we-became-best-friends-with-everyone-we-met/</loc>
-<lastmod>2020-12-28T14:00:21-08:00</lastmod>
+<loc>https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/</loc>
+<lastmod>2021-01-14T11:15:53-10:00</lastmod>
 <image:image>
-<image:loc>https://sdgandhi.github.io/media/posts/1/experimental-generation-2.png</image:loc>
+<image:loc>https://sg.life/media/posts/1/experimental-generation-2.png</image:loc>
 <image:title><![CDATA[What if we became best friends with everyone we met?]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://sg.life/what-if-we-valued-people-over-profiles/</loc>
+<lastmod>2021-01-14T11:42:49-10:00</lastmod>
 </url>
 </urlset>

@@ -752,9 +752,8 @@ textarea {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: var(--dark);
   height: var(--navbar-height);
-  /* position: absolute; */
+  position: absolute;
   padding: 0 var(--page-margin);
   -webkit-transition: background 0.5s ease;
   -o-transition: background 0.5s ease;
@@ -805,7 +804,6 @@ textarea {
   font-size: 1.2136296308rem;
   font-weight: var(--font-weight-normal);
   margin-right: auto;
-  margin-left: 3.5rem;
 }
 .logo > img {
   max-height: calc(3.9666666667rem + 1vw);
@@ -1448,6 +1446,7 @@ textarea {
   display: inline-block;
   color: var(--gray-2);
   font-size: 0.8239746086rem;
+  font-style: italic;
   text-decoration: underline;
   -webkit-text-decoration-skip: ink;
           text-decoration-skip-ink: auto;
