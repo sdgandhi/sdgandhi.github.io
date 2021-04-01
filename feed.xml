@@ -3,7 +3,7 @@
     <title>sg.life</title>
     <link href="https://sg.life/feed.xml" rel="self" />
     <link href="https://sg.life" />
-    <updated>2021-01-14T11:42:49-10:00</updated>
+    <updated>2021-03-31T17:40:24-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://sg.life/what-if-we-valued-people-over-profiles/"/>
         <id>https://sg.life/what-if-we-valued-people-over-profiles/</id>
+            <category term="Technology"/>
 
-        <updated>2021-01-14T11:42:49-10:00</updated>
+        <updated>2021-03-31T17:40:14-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://sg.life/media/posts/3/Frame-2.png" alt="Ketchup app icon" />
                     <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://sg.life/media/posts/3/Frame-2.png" alt="Ketchup app icon" />
                 <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
 
 <p>If we could keep in touch with our loved ones we would have more fulfilling relationships and feel less lonely. <em>Ketchup</em> helps you do just that, keep in touch. Not with profiles, but with meaningful conversations...like the old days.</p>
@@ -40,9 +43,9 @@
         </author>
         <link href="https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/"/>
         <id>https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/</id>
-            <category term="What if"/>
+            <category term="Technology"/>
 
-        <updated>2021-01-14T11:15:53-10:00</updated>
+        <updated>2021-03-31T17:40:24-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sg.life/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
