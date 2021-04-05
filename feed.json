@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sg.life/test-ar/",
+            "url": "https://sg.life/test-ar/",
+            "title": "Test AR",
+            "summary": " ",
+            "content_html": "<div><a rel=\"ar\" href=\"https://roxanajula.com/wp-content/uploads/2020/09/Adidas_Originals_Stan_Smith.usdz\"> <img loading=\"lazy\" src=\"https://roxanajula.com/wp-content/uploads/2020/09/Adidas_Originals_Stan_Smith.jpg\" data-is-external-image=\"true\" > </a></div>",
+            "author": {
+                "name": "Sid Gandhi"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-04T21:58:37-07:00",
+            "date_modified": "2021-04-04T21:58:37-07:00"
+        },
+        {
             "id": "https://sg.life/what-if-we-valued-people-over-profiles/",
             "url": "https://sg.life/what-if-we-valued-people-over-profiles/",
             "title": "What if we valued people over profiles?",

@@ -3,12 +3,32 @@
     <title>sg.life</title>
     <link href="https://sg.life/feed.xml" rel="self" />
     <link href="https://sg.life" />
-    <updated>2021-03-31T17:40:24-07:00</updated>
+    <updated>2021-04-04T21:58:37-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sg.life</id>
 
+    <entry>
+        <title>Test AR</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/test-ar/"/>
+        <id>https://sg.life/test-ar/</id>
+
+        <updated>2021-04-04T21:58:37-07:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div><a rel="ar" href="https://roxanajula.com/wp-content/uploads/2020/09/Adidas_Originals_Stan_Smith.usdz"> <img loading="lazy" src="https://roxanajula.com/wp-content/uploads/2020/09/Adidas_Originals_Stan_Smith.jpg" data-is-external-image="true" > </a></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What if we valued people over profiles?</title>
         <author>
