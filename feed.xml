@@ -3,140 +3,212 @@
     <title>sg.life</title>
     <link href="https://sg.life/feed.xml" rel="self" />
     <link href="https://sg.life" />
-    <updated>2021-03-31T17:40:24-07:00</updated>
+    <updated>2021-07-28T16:08:16-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sg.life</id>
 
     <entry>
-        <title>What if we valued people over profiles?</title>
+        <title>Launched Ketchup to help people stay in touch with friends and family during COVID-19</title>
         <author>
             <name>Sid Gandhi</name>
         </author>
-        <link href="https://sg.life/what-if-we-valued-people-over-profiles/"/>
-        <id>https://sg.life/what-if-we-valued-people-over-profiles/</id>
+        <link href="https://sg.life/launched-ketchup/"/>
+        <id>https://sg.life/launched-ketchup/</id>
             <category term="Technology"/>
 
-        <updated>2021-03-31T17:40:14-07:00</updated>
+        <updated>2021-07-28T15:55:46-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sg.life/media/posts/3/Frame-2.png" alt="Ketchup app icon" />
-                    <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
+                    <p>The Ketchup app launch appeared on the front page of <a href="https://www.producthunt.com/posts/ketchup-3">Product Hunt</a>.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://sg.life/media/posts/3/Frame-2.png" alt="Ketchup app icon" />
-                <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
+                <p>The Ketchup app launch appeared on the front page of <a href="https://www.producthunt.com/posts/ketchup-3">Product Hunt</a>.</p>
 
+<p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
 <p>If we could keep in touch with our loved ones we would have more fulfilling relationships and feel less lonely. <em>Ketchup</em> helps you do just that, keep in touch. Not with profiles, but with meaningful conversations...like the old days.</p>
 <p><a href="https://ketchup.newnoetic.com" title="Check out Ketchup ↗" target="_blank" rel="noopener noreferrer">Check out Ketchup ↗</a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>What if we became best friends with everyone we met?</title>
+        <title>Hosted the first-ever conference on Deepfakes </title>
         <author>
             <name>Sid Gandhi</name>
         </author>
-        <link href="https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/"/>
-        <id>https://sg.life/what-if-we-became-best-friends-with-everyone-we-met/</id>
+        <link href="https://sg.life/hosted-the-first-ever-conference-on-deepfakes/"/>
+        <id>https://sg.life/hosted-the-first-ever-conference-on-deepfakes/</id>
             <category term="Technology"/>
 
-        <updated>2021-03-31T17:40:24-07:00</updated>
+        <updated>2021-07-28T12:03:48-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sg.life/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
-                    
-  <p>
-    TLDR: I created <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank" rel="nofollow noopener">an app</a> that implements a psychology research paper to <b>make two people feel closer</b> by answering a specific series of increasingly personal questions.
-  </p>
+                        <img src="https://sg.life/media/posts/8/image08.jpg" alt="Deepfake conference with DFBlue" />
+                    On Sept. 5, DFBlue hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sg.life/media/posts/8/image08.jpg" alt="Deepfake conference with DFBlue" />
+                <p>On Sept. 5, <a href="https://dfblue.com/" target="_blank" rel="noopener">DFBlue</a> hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which was a discussion on what’s possible with Deepfake technology and how it can be used ethically.</p>
+<p><strong>The questions we answered are:</strong></p>
+<ul>
+<li>What is possible with today’s deepfake technology?</li>
+<li>How can we detect deepfakes?</li>
+<li>What are the ethical uses of deepfakes in the world of Advertising &amp; Entertainment?</li>
+</ul>
+<p><a href="https://pub.dfblue.com/pub/2019-10-25-deepfake-fake-news-or-powerful-tool" target="_blank" rel="noopener noreferrer">More details</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Launched Deepcheck — The internet&#x27;s missing reputation checker</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/launched-deepcheck-the-internets-missing-reputation-checker/"/>
+        <id>https://sg.life/launched-deepcheck-the-internets-missing-reputation-checker/</id>
+            <category term="Technology"/>
+
+        <updated>2021-07-28T14:47:39-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sg.life/media/posts/9/image11.jpg" alt="Deepcheck by DFBlue" />
+                    Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sg.life/media/posts/9/image11.jpg" alt="Deepcheck by DFBlue" />
+                <p>Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and more to help you be more aware of the organizations or people running the website.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Speaker at Gartner Security &amp; Risk Summit</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/speaker-at-gartner-security-and-risk-summit/"/>
+        <id>https://sg.life/speaker-at-gartner-security-and-risk-summit/</id>
+            <category term="Conference"/>
+
+        <updated>2021-07-28T15:35:34-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sg.life/media/posts/10/image02.jpg" alt="Sid Gandhi speaking at Gartner Security &amp; Risk Summit" />
+                    As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sg.life/media/posts/10/image02.jpg" alt="Sid Gandhi speaking at Gartner Security &amp; Risk Summit" />
+                <p>As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security Summit in National Harbor, MD describing new ways to report and analyze cybersecurity data.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Part of the U.S. Delegation to the Global Entrepreneurship Summit</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/"/>
+        <id>https://sg.life/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/</id>
+            <category term="Conference"/>
+
+        <updated>2021-07-28T15:00:48-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sg.life/media/posts/11/image13.jpg" alt="Sid Gandhi at the Global Entrepreneurship Summit 2017" />
+                    Hyderabad, India -- I attended GES as part fo the US delegation, representing technology entrepreneurs at this global conference backed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sg.life/media/posts/11/image13.jpg" alt="Sid Gandhi at the Global Entrepreneurship Summit 2017" />
+                <p>Hyderabad, India -- I attended <a href="https://in.usembassy.gov/global-entrepreneurship-summit-2017-held-hyderabad-november-28-30/" target="_blank" rel="noopener">GES as part fo the US delegation</a>, representing technology entrepreneurs at this global conference backed by the US Federal Government.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Photography exhibited at Coastal Arts League</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/photography-exhibit-at-coastal-arts-league/"/>
+        <id>https://sg.life/photography-exhibit-at-coastal-arts-league/</id>
+            <category term="Art"/>
+
+        <updated>2021-07-28T16:08:16-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sg.life/media/posts/14/C7zjDLZXUAQnpJW.jpeg" alt="Sid Gandhi&#x27;s photography in a gallery" />
+                    <p>My digital photography was exhibited along with other artists from technology companies at the Coastal Arts League gallery in Half Moon Bay, California.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sg.life/media/posts/1/experimental-generation-2.png" alt="What if we became best friends with everyone we met?" />
-                
-  <p>
-    TLDR: I created <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank" rel="nofollow noopener">an app</a> that implements a psychology research paper to <b>make two people feel closer</b> by answering a specific series of increasingly personal questions.
-  </p>
-<hr id="read-more" />
+                    <img src="https://sg.life/media/posts/14/C7zjDLZXUAQnpJW.jpeg" alt="Sid Gandhi&#x27;s photography in a gallery" />
+                <p>My digital photography was exhibited along with other artists from technology companies at the Coastal Arts League gallery in Half Moon Bay, California.</p>
 
-  <p>
-    In the Modern Love section of <i>The New York Times</i> in January of 2015, Mandy Len Catron wrote about a psychology experiment on interpersonal closeness that she tried in her own life which resulted in her getting close to (and eventually marrying) an acquaintance of hers.<br><br>I've become fascinated with efficiently using the time I'm physically with people. Mixing 'efficiency' and 'friendship' seem to bring a bad taste into people's mouth, the argument being friendship doesn't need to be efficient, it's a casual and natural social phenomenon. However, because I find myself with increasingly limited and 'scheduled' time with friends, I find efficiency to be an alluring topic with regards to getting closer to my friends and family.
-  </p>
+<blockquote>
+<p>“I try and understand as much detail as possible about the subject so I can shoot it optimally,” said Gandhi. “Even so, when I look at the photograph I made, there are always interesting details I didn’t perceive in the moment.”</p>
+</blockquote>
+<p><a href="https://web.archive.org/web/20210728230255/https://www.hmbreview.com/arts_and_entertainment/exhibit-shows-ingenuity-knows-no-boundaries/article_21c74f96-08f9-11e7-bd26-63b8e0619827.html" target="_blank" rel="noopener">The news article</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Helped launch &quot;Hey Siri, book me an Uber&quot; at Apple</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/helped-launch-hey-siri-book-me-an-uber-at-apple/"/>
+        <id>https://sg.life/helped-launch-hey-siri-book-me-an-uber-at-apple/</id>
+            <category term="Technology"/>
 
-    <h4 id="the-study---the-experimental-generation-of-interpersonal-closeness-a-procedure-and-some-preliminary-findings-by-arthur-aron-et-al-">
-      <a href="https://journals.sagepub.com/doi/pdf/10.1177/0146167297234003" rel="nofollow noopener" target="_blank">
-      The study —  The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings by Arthur Aron et al. ↗️
-      </a>
-    </h4>
+        <updated>2021-07-28T15:51:48-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sg.life/media/posts/12/image14.jpg" alt="Sid Gandhi worked on iOS releases at Apple" />
+                    During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sg.life/media/posts/12/image14.jpg" alt="Sid Gandhi worked on iOS releases at Apple" />
+                <p>During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri and Apple Maps and drove adoption with Uber, Lyft, Ola Cabs and DiDi. This allowed users to compare prices between different providers and take full rides without leaving Siri at all. After launch, my team supported 50k+ requests per week across millions of iPhones.</p>
+<p>I also helped the launch of the Apple Maps transit feature in Japan, which launched with <a href="https://web.archive.org/web/20210728224354/https://atadistance.net/2016/11/13/im-at-shinjuku-station-but-which-shinjuku-station-are-you-talking-about-a-review-of-apple-maps-japan-transit/" target="_blank" rel="noopener noreferrer">strong</a> <a href="https://web.archive.org/web/20210728224736/https://www.amvsement.com/2016/11/travel-japan-apple-maps-transport/" target="_blank" rel="noopener">reviews</a> for the detail-oriented design and features which helped users efficiently navigate Japan's complex transit system.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Launched Hypetrax to make discussing music easier</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sg.life/launched-hypetrax-to-make-discussing-music-easier/"/>
+        <id>https://sg.life/launched-hypetrax-to-make-discussing-music-easier/</id>
+            <category term="Technology"/>
 
-  <p>
-    The NYT article referred to a study published in 1997. It has plenty of references to previous work in this area since the 1970s. But in true 'scientific' fashion it's a boring read so I'll summarize it for readers who value efficiency.
-  </p>
-
-    <h2 id="key-takeaways">
-      Key takeaways
-    </h2>
-
-  <ol>
-    <li>Three separate studies were conducted which were modeled on previous studies in interpersonal closeness. These studies had pairs of subjects ask each other increasingly intimate (not in the physical sense) questions to increase closeness between the subjects.</li><li>In study 1, researchers found that the intimate questions generated a score of 4.06 on a closeness scale, while the control 'small talk' questions were 3.25. They considered this a significant difference — **meaning the intimate questions worked**!</li><li>In study 2, researchers matched subjects based on certain preferences/values (do you smoke, should people dress conservatively) and whether there was an expectation that the other person liked them. They found no strong effect of either of these variables on the resulting closeness score (4.02 in this case)</li><li>In study 3, researches manipulated the variable of whether they told subjects that achieving closeness was a goal or not. Overall score was a bit lower at 3.76, but researchers claimed it to not be a significant difference.<br></li>
-  </ol>
-
-    <blockquote class="blockquote">
-      So are we producing real closeness? Yes and no. We think the closeness produced in these studies is experienced as similar in many important ways to felt closeness in naturally occurring relationships that develop over time. On the other hand, it seems unlikely that [this] procedure produces loyalty, dependence, commitment, or other relationship aspects that might time longer to develop. 
-    </blockquote>
-
-    <h2 id="the-questions">
-      The questions
-    </h2>
-
-  <p>
-    If you want to achieve closeness with people around you, new and known, you can use the same questions Aron et al. used in their study. Remember, the order matters here since they get increasingly personal and intimate.
-  </p>
-<div><div class="post__iframe"><iframe loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSNhsSs6pv10sFtrUQMP9ZMaYPrsvXce8s3DI2a-jx75wis8ZZ4BIqUSX4JsecVIWeklv93Gt6nWYV9/pubhtml?widget=true&amp;headers=false"></iframe></div></div>
-
-  <p>
-    &nbsp;
-  </p>
-
-    <h2 id="thoughts-on-using-the-questions">
-      Thoughts on using the questions
-    </h2>
-
-  <p>
-    I imagine introducing these questions to a new acquaintance with <i>"So you want to get closer by asking each other personal questions?"</i> may not be the ideal approach. A useful introduction might be <i>"I want to get to know you better. Want to do this activity that's supposed to build closer friendships? We just go back and forth asking each other questions."</i><br><br>Then you might proceed to go back and forth answering questions. One option would be for each person to answer each questions. Another might be to alternate questions.
-  </p>
-
-  <p>
-    To spare you from having to memorize the questions or pull up this page everytime you want to use them, I made a simple guide app.
-  </p>
-
-    <h4 id="get-the-ritual-app-" class="align-center">
-      <a href="https://testflight.apple.com/join/wrFfbUvz" target="_blank">
-      Get the 'Ritual' app ↗️
-      </a>
-    </h4>
-<hr class="separator separator--dots" />
-<div><center>
-<video loading="lazy" controls autoplay loop muted playsinline width="300">
-    <source src="https://thumbs.gfycat.com/EnlightenedWatchfulDrafthorse-mobile.mp4"
-            type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
-</center></div>
-
-    <h2 id="references">
-      References
-    </h2>
-
-  <p>
-    Catron, M. (2015, January 09). To Fall in Love With Anyone, Do This. Retrieved November 28, 2020, from https://www.nytimes.com/2015/01/11/style/modern-love-to-fall-in-love-with-anyone-do-this.html<br><br>Aron, Melinat, Aron, Vallone, &amp; Bator. (1997). The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings. Retrieved November 28, 2020, from https://journals.sagepub.com/doi/pdf/10.1177/0146167297234003
-  </p>
+        <updated>2021-07-28T15:52:03-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sg.life/media/posts/13/image07.jpg" alt="" />
+                    News coverage in Neon Tommy and Nextsound.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sg.life/media/posts/13/image07.jpg" alt="" />
+                <p>News coverage in <a href="http://www.neontommy.com/news/2014/03/usc-students-create-music-based-social-network.html">Neon Tommy</a> and <a href="https://web.archive.org/web/20140331211720/http://nextsound.co/hypetrax-a-potential-new-take-on-music-sharing">Nextsound</a>.</p>
             ]]>
         </content>
     </entry>
