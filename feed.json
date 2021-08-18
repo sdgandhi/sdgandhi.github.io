@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "sg.life",
     "description": "",
-    "home_page_url": "https://sg.life",
-    "feed_url": "https://sg.life/feed.json",
+    "home_page_url": "https://sidhantgandhi.com",
+    "feed_url": "https://sidhantgandhi.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sid Gandhi"
     },
     "items": [
         {
-            "id": "https://sg.life/launched-ketchup/",
-            "url": "https://sg.life/launched-ketchup/",
+            "id": "https://sidhantgandhi.com/launched-ketchup/",
+            "url": "https://sidhantgandhi.com/launched-ketchup/",
             "title": "Launched Ketchup to help people stay in touch with friends and family during COVID-19",
             "summary": "<p>The Ketchup app launch appeared on the front page of <a href=\"https://www.producthunt.com/posts/ketchup-3\">Product Hunt</a>.</p>\n",
             "content_html": "<p>The Ketchup app launch appeared on the front page of <a href=\"https://www.producthunt.com/posts/ketchup-3\">Product Hunt</a>.</p>\n\n<p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>\n<p>If we could keep in touch with our loved ones we would have more fulfilling relationships and feel less lonely. <em>Ketchup</em> helps you do just that, keep in touch. Not with profiles, but with meaningful conversations...like the old days.</p>\n<p><a href=\"https://ketchup.newnoetic.com\" title=\"Check out Ketchup ↗\" target=\"_blank\" rel=\"noopener noreferrer\">Check out Ketchup ↗</a></p>",
-            "image": "https://sg.life/media/posts/3/Frame-2.png",
+            "image": "https://sidhantgandhi.com/media/posts/3/Frame-2.png",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2021-07-28T15:55:46-07:00"
         },
         {
-            "id": "https://sg.life/hosted-the-first-ever-conference-on-deepfakes/",
-            "url": "https://sg.life/hosted-the-first-ever-conference-on-deepfakes/",
+            "id": "https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/",
+            "url": "https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/",
             "title": "Hosted the first-ever conference on Deepfakes ",
             "summary": "On Sept. 5, DFBlue hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which&hellip;",
             "content_html": "<p>On Sept. 5, <a href=\"https://dfblue.com/\" target=\"_blank\" rel=\"noopener\">DFBlue</a> hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which was a discussion on what’s possible with Deepfake technology and how it can be used ethically.</p>\n<p><strong>The questions we answered are:</strong></p>\n<ul>\n<li>What is possible with today’s deepfake technology?</li>\n<li>How can we detect deepfakes?</li>\n<li>What are the ethical uses of deepfakes in the world of Advertising &amp; Entertainment?</li>\n</ul>\n<p><a href=\"https://pub.dfblue.com/pub/2019-10-25-deepfake-fake-news-or-powerful-tool\" target=\"_blank\" rel=\"noopener noreferrer\">More details</a></p>",
-            "image": "https://sg.life/media/posts/8/image08.jpg",
+            "image": "https://sidhantgandhi.com/media/posts/8/image08.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -42,12 +42,12 @@
             "date_modified": "2021-07-28T20:12:01-07:00"
         },
         {
-            "id": "https://sg.life/launched-deepcheck-the-internets-missing-reputation-checker/",
-            "url": "https://sg.life/launched-deepcheck-the-internets-missing-reputation-checker/",
+            "id": "https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/",
+            "url": "https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/",
             "title": "Launched Deepcheck — The internet&#x27;s missing reputation checker",
             "summary": "Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and&hellip;",
             "content_html": "<p>Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and more to help you be more aware of the organizations or people running the website.</p>",
-            "image": "https://sg.life/media/posts/9/image11.jpg",
+            "image": "https://sidhantgandhi.com/media/posts/9/image11.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -58,12 +58,12 @@
             "date_modified": "2021-07-28T14:47:39-07:00"
         },
         {
-            "id": "https://sg.life/speaker-at-gartner-security-and-risk-summit/",
-            "url": "https://sg.life/speaker-at-gartner-security-and-risk-summit/",
+            "id": "https://sidhantgandhi.com/speaker-at-gartner-security-and-risk-summit/",
+            "url": "https://sidhantgandhi.com/speaker-at-gartner-security-and-risk-summit/",
             "title": "Speaker at Gartner Security &amp; Risk Summit",
             "summary": "As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security&hellip;",
             "content_html": "<p>As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security Summit in National Harbor, MD describing new ways to report and analyze cybersecurity data.</p>",
-            "image": "https://sg.life/media/posts/10/image02.jpg",
+            "image": "https://sidhantgandhi.com/media/posts/10/image02.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -74,12 +74,12 @@
             "date_modified": "2021-07-28T15:35:34-07:00"
         },
         {
-            "id": "https://sg.life/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/",
-            "url": "https://sg.life/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/",
+            "id": "https://sidhantgandhi.com/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/",
+            "url": "https://sidhantgandhi.com/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/",
             "title": "Part of the U.S. Delegation to the Global Entrepreneurship Summit",
             "summary": "Hyderabad, India -- I attended GES as part fo the US delegation, representing technology entrepreneurs at this global conference backed&hellip;",
             "content_html": "<p>Hyderabad, India -- I attended <a href=\"https://in.usembassy.gov/global-entrepreneurship-summit-2017-held-hyderabad-november-28-30/\" target=\"_blank\" rel=\"noopener\">GES as part fo the US delegation</a>, representing technology entrepreneurs at this global conference backed by the US Federal Government.</p>",
-            "image": "https://sg.life/media/posts/11/image13.jpg",
+            "image": "https://sidhantgandhi.com/media/posts/11/image13.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -90,12 +90,12 @@
             "date_modified": "2021-07-28T15:00:48-07:00"
         },
         {
-            "id": "https://sg.life/photography-exhibit-at-coastal-arts-league/",
-            "url": "https://sg.life/photography-exhibit-at-coastal-arts-league/",
+            "id": "https://sidhantgandhi.com/photography-exhibit-at-coastal-arts-league/",
+            "url": "https://sidhantgandhi.com/photography-exhibit-at-coastal-arts-league/",
             "title": "Photography exhibited at Coastal Arts League",
             "summary": "<p>My digital photography was exhibited along with other artists from technology companies at the Coastal Arts League gallery in Half Moon Bay, California.</p>\n",
             "content_html": "<p>My digital photography was exhibited along with other artists from technology companies at the Coastal Arts League gallery in Half Moon Bay, California.</p>\n\n<blockquote>\n<p>“I try and understand as much detail as possible about the subject so I can shoot it optimally,” said Gandhi. “Even so, when I look at the photograph I made, there are always interesting details I didn’t perceive in the moment.”</p>\n</blockquote>\n<p><a href=\"https://web.archive.org/web/20210728230255/https://www.hmbreview.com/arts_and_entertainment/exhibit-shows-ingenuity-knows-no-boundaries/article_21c74f96-08f9-11e7-bd26-63b8e0619827.html\" target=\"_blank\" rel=\"noopener\">The news article</a></p>",
-            "image": "https://sg.life/media/posts/14/C7zjDLZXUAQnpJW.jpeg",
+            "image": "https://sidhantgandhi.com/media/posts/14/C7zjDLZXUAQnpJW.jpeg",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -106,12 +106,12 @@
             "date_modified": "2021-07-28T16:08:16-07:00"
         },
         {
-            "id": "https://sg.life/helped-launch-hey-siri-book-me-an-uber-at-apple/",
-            "url": "https://sg.life/helped-launch-hey-siri-book-me-an-uber-at-apple/",
+            "id": "https://sidhantgandhi.com/helped-launch-hey-siri-book-me-an-uber-at-apple/",
+            "url": "https://sidhantgandhi.com/helped-launch-hey-siri-book-me-an-uber-at-apple/",
             "title": "Helped launch &quot;Hey Siri, book me an Uber&quot; at Apple",
             "summary": "During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri&hellip;",
             "content_html": "<p>During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri and Apple Maps and drove adoption with Uber, Lyft, Ola Cabs and DiDi. This allowed users to compare prices between different providers and take full rides without leaving Siri at all. After launch, my team supported 50k+ requests per week across millions of iPhones.</p>\n<p>I also helped the launch of the Apple Maps transit feature in Japan, which launched with <a href=\"https://web.archive.org/web/20210728224354/https://atadistance.net/2016/11/13/im-at-shinjuku-station-but-which-shinjuku-station-are-you-talking-about-a-review-of-apple-maps-japan-transit/\" target=\"_blank\" rel=\"noopener noreferrer\">strong</a> <a href=\"https://web.archive.org/web/20210728224736/https://www.amvsement.com/2016/11/travel-japan-apple-maps-transport/\" target=\"_blank\" rel=\"noopener\">reviews</a> for the detail-oriented design and features which helped users efficiently navigate Japan's complex transit system.</p>",
-            "image": "https://sg.life/media/posts/12/image14.jpg",
+            "image": "https://sidhantgandhi.com/media/posts/12/image14.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
@@ -122,12 +122,12 @@
             "date_modified": "2021-07-28T16:31:12-07:00"
         },
         {
-            "id": "https://sg.life/launched-hypetrax-to-make-discussing-music-easier/",
-            "url": "https://sg.life/launched-hypetrax-to-make-discussing-music-easier/",
+            "id": "https://sidhantgandhi.com/launched-hypetrax-to-make-discussing-music-easier/",
+            "url": "https://sidhantgandhi.com/launched-hypetrax-to-make-discussing-music-easier/",
             "title": "Launched Hypetrax to make discussing music easier",
             "summary": "News coverage in Neon Tommy and Nextsound.",
             "content_html": "<p>News coverage in <a href=\"http://www.neontommy.com/news/2014/03/usc-students-create-music-based-social-network.html\">Neon Tommy</a> and <a href=\"https://web.archive.org/web/20140331211720/http://nextsound.co/hypetrax-a-potential-new-take-on-music-sharing\">Nextsound</a>.</p>",
-            "image": "https://sg.life/media/posts/13/image07.jpg",
+            "image": "https://sidhantgandhi.com/media/posts/13/image07.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
