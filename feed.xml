@@ -1,14 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>sg.life</title>
+    <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2021-07-28T20:12:01-07:00</updated>
+    <updated>2021-08-18T16:44:40-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sidhantgandhi.com</id>
 
+    <entry>
+        <title>Interior design with SweetHome3D and Blender</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/interior-design-with-sweethome3d-and-blender/"/>
+        <id>https://sidhantgandhi.com/interior-design-with-sweethome3d-and-blender/</id>
+            <category term="Technology"/>
+            <category term="Art"/>
+
+        <updated>2021-08-18T16:44:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/16/axis-803-15-2.png" alt="Living room render in Blender" />
+                    I wanted to redesign our living room interior to make it more comfortable to host our friends and family. Of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/16/axis-803-15-2.png" alt="Living room render in Blender" />
+                <p>I wanted to redesign our living room interior to make it more comfortable to host our friends and family. Of course, we can make the process better with software.</p>
+<p><a href="http://www.sweethome3d.com"><strong>Sweet Home 3D</strong></a> is a free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.</p>
+<figure class="post__image post__image--full" ><img loading="lazy" src="https://sidhantgandhi.com/media/posts/16/Screen-Shot-2021-08-18-at-4.29.36-PM.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/16/responsive/Screen-Shot-2021-08-18-at-4.29.36-PM-xs.png 300w ,https://sidhantgandhi.com/media/posts/16/responsive/Screen-Shot-2021-08-18-at-4.29.36-PM-sm.png 480w ,https://sidhantgandhi.com/media/posts/16/responsive/Screen-Shot-2021-08-18-at-4.29.36-PM-md.png 768w"  alt="Sweet Home 3D example layout" width="3104" height="1834">
+<figcaption >Our living room in Sweet Home 3D</figcaption>
+</figure>
+<p>I measured every wall in our house to create the floor plan. Next, brought in 3D models from the included library and the internet (<a href="https://sketchfab.com" target="_blank" rel="noopener">sketchfab</a> is a good place to start). The UI is a bit old school, but it's richly featured, so whatever you're looking for is there. <em>You'll figure it out.</em></p>
+<p>Sweet Home has a render option that lets you get higher quality images with better lighting, and the results are... okay.B</p>
+<figure class="post__image" ><img loading="lazy" src="https://sidhantgandhi.com/media/posts/16/axis-803-5.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/16/responsive/axis-803-5-xs.png 300w ,https://sidhantgandhi.com/media/posts/16/responsive/axis-803-5-sm.png 480w ,https://sidhantgandhi.com/media/posts/16/responsive/axis-803-5-md.png 768w"  alt="Example render from Sweet Home 3D" width="2000" height="1125">
+<figcaption >Example render from Sweet Home 3D</figcaption>
+</figure>
+<p>We can do better though. So we export the whole house with <em><strong>3D view &gt; Export to OBJ format.</strong></em> Next, import the .obj file in Blender, add some lights, adjust render settings and you get a much higher quality render.</p>
+<figure class="post__image" ><img loading="lazy" src="https://sidhantgandhi.com/media/posts/16/axis-803-15.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/16/responsive/axis-803-15-xs.png 300w ,https://sidhantgandhi.com/media/posts/16/responsive/axis-803-15-sm.png 480w ,https://sidhantgandhi.com/media/posts/16/responsive/axis-803-15-md.png 768w"  alt="Living room render in Blender (Cycles renderer)" width="3840" height="2160">
+<figcaption >Living room render in Blender (Cycles renderer)</figcaption>
+</figure>
+<p>Voilà.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Launched Google Meet Transcripts (Safari Extension)</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/launched-google-meet-transcripts-safari-extension/"/>
+        <id>https://sidhantgandhi.com/launched-google-meet-transcripts-safari-extension/</id>
+            <category term="Technology"/>
+
+        <updated>2021-08-18T16:44:40-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/15/header-3-lg.png" alt="Google Meet Transcripts for Safari" />
+                    Automatic transcripts of Google Meet calls on the Safari browser. There are a few extensions that do Google Meet transcripts&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/15/header-3-lg.png" alt="Google Meet Transcripts for Safari" />
+                <h2 class="align-center">Automatic transcripts of Google Meet calls on the Safari browser.</h2>
+<p class="align-center">There are a few extensions that do Google Meet transcripts in Chrome, but none for Safari — so here it is!</p>
+<figure class="post__image align-center"><a href="https://apps.apple.com/us/app/meet-transcripts/id1561393822" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/15/800px-Download_on_the_App_Store_Badge.svg-md.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/15/responsive/800px-Download_on_the_App_Store_Badge.svg-md-xs.png 300w ,https://sidhantgandhi.com/media/posts/15/responsive/800px-Download_on_the_App_Store_Badge.svg-md-sm.png 480w ,https://sidhantgandhi.com/media/posts/15/responsive/800px-Download_on_the_App_Store_Badge.svg-md-md.png 768w"  alt="" width="196" height="58"></figure></a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-1-2.png" data-size="1440x900"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-1-2-thumbnail.png" alt="Click the icon to start transcription" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-2-2.png" data-size="1440x900"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-2-2-thumbnail.png" alt="When the meeting is done, copy the transcript to your clipboard" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-3-2.png" data-size="1440x900"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-3-2-thumbnail.png" alt="View all previous transcripts" width="768" height="480"></a></figure>
+</div></div>
+<p>More info <a href="#INTERNAL_LINK#/post/null" title="https://google-meet-transcripts.newnoetic.com">here</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Launched Ketchup to help people stay in touch with friends and family during COVID-19</title>
         <author>
