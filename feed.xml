@@ -3,7 +3,7 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2021-08-18T17:47:53-07:00</updated>
+    <updated>2021-08-18T17:50:39-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Technology"/>
             <category term="Art"/>
 
-        <updated>2021-08-18T17:20:04-07:00</updated>
+        <updated>2021-08-18T17:50:39-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/16/axis-803-15-2.png" alt="Living room render in Blender" />
@@ -30,12 +30,13 @@
             <![CDATA[
                     <img src="https://sidhantgandhi.com/media/posts/16/axis-803-15-2.png" alt="Living room render in Blender" />
                 <p>I wanted to redesign our living room interior to make it more comfortable to host our friends and family. Of course, we can make the process better with software.</p>
-<p><a href="http://www.sweethome3d.com"><strong>Sweet Home 3D</strong></a> is a free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.</p>
+<p><a href="http://www.sweethome3d.com" target="_blank" rel="noopener noreferrer"><strong>Sweet Home 3D</strong></a> is a free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.</p>
 <figure class="post__image post__image--full" ><img loading="lazy" src="https://sidhantgandhi.com/media/posts/16/Screen-Shot-2021-08-18-at-4.29.36-PM.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/16/responsive/Screen-Shot-2021-08-18-at-4.29.36-PM-xs.png 300w ,https://sidhantgandhi.com/media/posts/16/responsive/Screen-Shot-2021-08-18-at-4.29.36-PM-sm.png 480w ,https://sidhantgandhi.com/media/posts/16/responsive/Screen-Shot-2021-08-18-at-4.29.36-PM-md.png 768w"  alt="Sweet Home 3D example layout" width="3104" height="1834">
 <figcaption >Our living room in Sweet Home 3D</figcaption>
 </figure>
-<p>I measured every wall in our house to create the floor plan. Next, brought in 3D models from the included library and the internet (<a href="https://sketchfab.com" target="_blank" rel="noopener">sketchfab</a> is a good place to start). The UI is a bit old school, but it's richly featured, so whatever you're looking for is there. <em>You'll figure it out.</em></p>
-<p>Sweet Home has a render option that lets you get higher quality images with better lighting, and the results are... okay.B</p>
+<p>I measured every wall in our house to create the floor plan. Next, I brought in 3D models from the included library and the internet (<a href="https://sketchfab.com" target="_blank" rel="noopener">sketchfab</a> is a good place to start).</p>
+<p>The UI is a bit old school, but it's richly featured, so whatever you're looking for is there.</p>
+<p>Sweet Home has a render option that lets you get higher quality images with better lighting, and the results are... okay.</p>
 <figure class="post__image" ><img loading="lazy" src="https://sidhantgandhi.com/media/posts/16/axis-803-5.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/16/responsive/axis-803-5-xs.png 300w ,https://sidhantgandhi.com/media/posts/16/responsive/axis-803-5-sm.png 480w ,https://sidhantgandhi.com/media/posts/16/responsive/axis-803-5-md.png 768w"  alt="Example render from Sweet Home 3D" width="2000" height="1125">
 <figcaption >Example render from Sweet Home 3D</figcaption>
 </figure>
