@@ -3,7 +3,7 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2021-08-18T17:20:04-07:00</updated>
+    <updated>2021-08-18T17:43:50-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
@@ -75,6 +75,36 @@
 <figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-3-2.png" data-size="1440x900"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/15/gallery/MacBook-Pro-3-2-thumbnail.png" alt="View all previous transcripts" width="768" height="480"></a></figure>
 </div></div>
 <p>More info <a href="#INTERNAL_LINK#/post/null" title="https://google-meet-transcripts.newnoetic.com">here</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Created deepfakes for a Harvard research paper</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/created-deepfakes-for-a-harvard-research-paper/"/>
+        <id>https://sidhantgandhi.com/created-deepfakes-for-a-harvard-research-paper/</id>
+
+        <updated>2021-08-18T17:43:50-07:00</updated>
+            <summary>
+                <![CDATA[
+                    DFBlue announced a partnership with Harvard University in Nov 2019 for a research study on the psychological effects of political&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>DFBlue announced a partnership with Harvard University in Nov 2019 for a research study on the psychological effects of political deepfakes ahead of the upcoming 2020 U.S. elections.</p>
+<p> </p>
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark">
+<p dir="ltr" lang="en">New working paper (w <a href="https://twitter.com/SoubhikBarari?ref_src=twsrc%5Etfw">@SoubhikBarari</a> <a href="https://twitter.com/cd_lucas?ref_src=twsrc%5Etfw">@cd_lucas</a>): <br><br>Title says it all: "Political Deepfake Videos Misinform the Public, But No More than Other Fake Media"<br><br>This project was over 2 years in the making bc ... it turns out making compelling deepfakes is hard!<a href="https://t.co/oGZostYirD">https://t.co/oGZostYirD</a></p>
+— Kevin Munger (@kmmunger) <a href="https://twitter.com/kmmunger/status/1349498015548112898?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true" data-theme="dark">
+<p dir="ltr" lang="en">We worked w a cutting-edge media effects firm (@rashiranka97 and <a href="https://twitter.com/SidhantGandhi?ref_src=twsrc%5Etfw">@SidhantGandhi</a> of <a href="https://twitter.com/dfblue?ref_src=twsrc%5Etfw">@dfblue</a>) and a professional impersonator to create novel deepfakes<br><br>We opted for Elizabeth Warren as the "target" of our deepfakes bc she was not running for office but was still a well-known pol <a href="https://t.co/NrFMlxKIj2">pic.twitter.com/NrFMlxKIj2</a></p>
+— Kevin Munger (@kmmunger) <a href="https://twitter.com/kmmunger/status/1349498021034266629?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote>
+<p class="align-left">
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<strong><a href="https://pub.dfblue.com/pub/2019-11-22-dfblue-and-the-harvard-institute-of-quantitative-social-science" target="_blank" rel="noopener noreferrer">Learn more at DFBlue</a>.</strong></p>
             ]]>
         </content>
     </entry>
@@ -255,29 +285,6 @@
                     <img src="https://sidhantgandhi.com/media/posts/12/image14.jpg" alt="Sid Gandhi worked on iOS releases at Apple" />
                 <p>During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri and Apple Maps and drove adoption with Uber, Lyft, Ola Cabs and DiDi. This allowed users to compare prices between different providers and take full rides without leaving Siri at all. After launch, my team supported 50k+ requests per week across millions of iPhones.</p>
 <p>I also helped the launch of the Apple Maps transit feature in Japan, which launched with <a href="https://web.archive.org/web/20210728224354/https://atadistance.net/2016/11/13/im-at-shinjuku-station-but-which-shinjuku-station-are-you-talking-about-a-review-of-apple-maps-japan-transit/" target="_blank" rel="noopener noreferrer">strong</a> <a href="https://web.archive.org/web/20210728224736/https://www.amvsement.com/2016/11/travel-japan-apple-maps-transport/" target="_blank" rel="noopener">reviews</a> for the detail-oriented design and features which helped users efficiently navigate Japan's complex transit system.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Launched Hypetrax to make discussing music easier</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/launched-hypetrax-to-make-discussing-music-easier/"/>
-        <id>https://sidhantgandhi.com/launched-hypetrax-to-make-discussing-music-easier/</id>
-            <category term="Technology"/>
-
-        <updated>2021-07-28T15:52:03-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/13/image07.jpg" alt="" />
-                    News coverage in Neon Tommy and Nextsound.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/13/image07.jpg" alt="" />
-                <p>News coverage in <a href="http://www.neontommy.com/news/2014/03/usc-students-create-music-based-social-network.html">Neon Tommy</a> and <a href="https://web.archive.org/web/20140331211720/http://nextsound.co/hypetrax-a-potential-new-take-on-music-sharing">Nextsound</a>.</p>
             ]]>
         </content>
     </entry>
