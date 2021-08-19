@@ -3,7 +3,7 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2021-08-18T17:46:14-07:00</updated>
+    <updated>2021-08-18T17:47:53-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
@@ -146,9 +146,10 @@
         </author>
         <link href="https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/"/>
         <id>https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/</id>
-            <category term="Art"/>
+            <category term="Technology"/>
+            <category term="Conference"/>
 
-        <updated>2021-07-28T20:12:01-07:00</updated>
+        <updated>2021-08-18T17:47:53-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/8/image08.jpg" alt="Deepfake conference with DFBlue" />

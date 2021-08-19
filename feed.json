@@ -85,10 +85,11 @@
                 "name": "Sid Gandhi"
             },
             "tags": [
-                   "Art"
+                   "Technology",
+                   "Conference"
             ],
             "date_published": "2019-10-25T11:51:00-07:00",
-            "date_modified": "2021-07-28T20:12:01-07:00"
+            "date_modified": "2021-08-18T17:47:53-07:00"
         },
         {
             "id": "https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/",
