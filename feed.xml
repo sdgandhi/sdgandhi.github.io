@@ -3,7 +3,7 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2021-08-18T17:45:43-07:00</updated>
+    <updated>2021-08-18T17:46:14-07:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
@@ -85,8 +85,9 @@
         </author>
         <link href="https://sidhantgandhi.com/created-deepfakes-for-a-harvard-research-paper/"/>
         <id>https://sidhantgandhi.com/created-deepfakes-for-a-harvard-research-paper/</id>
+            <category term="Technology"/>
 
-        <updated>2021-08-18T17:45:43-07:00</updated>
+        <updated>2021-08-18T17:46:14-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/17/dfblue-harvard-partnership.png" alt="Worked with DFBlue on a Harvard research paper" />
