@@ -3,12 +3,67 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2021-08-28T20:51:16-04:00</updated>
+    <updated>2022-03-21T22:14:35-04:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sidhantgandhi.com</id>
 
+    <entry>
+        <title>Quoted in TechCrunch and MIT Technology Review</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/"/>
+        <id>https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/</id>
+            <category term="Technology"/>
+
+        <updated>2022-03-21T22:14:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/19/Frame-131-2.png" alt="Sid Gandhi quoted in TechCrunch and MIT Technology Review" />
+                    MIT Technology Review https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/ https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/ 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/19/Frame-131-2.png" alt="Sid Gandhi quoted in TechCrunch and MIT Technology Review" />
+                <h2>MIT Technology Review</h2>
+<h2><figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/19/Screen-Shot-2022-03-21-at-9.48.51-PM.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.48.51-PM-xs.png 300w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.48.51-PM-sm.png 480w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.48.51-PM-md.png 768w"  alt="" width="1484" height="1586"></figure></h2>
+<p><a href="https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/">https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/</a> </p>
+<h2>TechCrunch</h2>
+<figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/19/Screen-Shot-2022-03-21-at-9.51.00-PM.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.51.00-PM-xs.png 300w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.51.00-PM-sm.png 480w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.51.00-PM-md.png 768w"  alt="" width="2236" height="1590"></figure>
+<p><a href="https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/">https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Speaker at Cruise Under the Hood</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/speaker-at-cruise-under-the-hood/"/>
+        <id>https://sidhantgandhi.com/speaker-at-cruise-under-the-hood/</id>
+            <category term="Technology"/>
+            <category term="Conference"/>
+
+        <updated>2022-03-21T22:14:35-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/18/maxresdefault.jpg" alt="Sid Gandhi speaks at Cruise – Under the Hood" />
+                    Under the Hood was a special event held by Cruise to deep dive into technical topics in the autonomous vehicle&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/18/maxresdefault.jpg" alt="Sid Gandhi speaks at Cruise – Under the Hood" />
+                <p><strong><em>Under the Hood</em></strong> was a special event held by Cruise to deep dive into technical topics in the autonomous vehicle space. I was the speaker for the section titled "Accelerating AV Development", which covered the newest AV simulation technologies Cruise is building and why they're important to the long term viability of Cruise's business. I structured my talk as a narrative, detailing the various technologies the Simulation team has built and how they come together in a thoughtful way to solve some long-standing problems in AV simulation.</p>
+<p>Multiple news sites picked up my quotes from the talk including <a href="https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/" rel="nofollow">TechCrunch</a> and <a href="https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/" rel="nofollow">MIT Technology Review</a>.</p>
+<h3>Sid Gandhi speaking at Cruise – Under the Hood 2021</h3>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="//www.youtube.com/embed/7BF34b4EMz8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Interior design with Sweet Home 3D and Blender</title>
         <author>
@@ -244,77 +299,6 @@
             <![CDATA[
                     <img src="https://sidhantgandhi.com/media/posts/11/image13.jpg" alt="Sid Gandhi at the Global Entrepreneurship Summit 2017" />
                 <p>Hyderabad, India -- I attended <a href="https://in.usembassy.gov/global-entrepreneurship-summit-2017-held-hyderabad-november-28-30/" target="_blank" rel="noopener">GES as part fo the US delegation</a>, representing technology entrepreneurs at this global conference backed by the US Federal Government.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Photography exhibited at Coastal Arts League</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/photography-exhibit-at-coastal-arts-league/"/>
-        <id>https://sidhantgandhi.com/photography-exhibit-at-coastal-arts-league/</id>
-            <category term="Art"/>
-
-        <updated>2021-08-24T21:29:40-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/14/C7zjDLZXUAQnpJW.jpeg" alt="Sid Gandhi&#x27;s photography in a gallery" />
-                    <p>My digital photography was exhibited along with other artists from technology companies at the Coastal Arts League gallery in Half Moon Bay, California.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/14/C7zjDLZXUAQnpJW.jpeg" alt="Sid Gandhi&#x27;s photography in a gallery" />
-                <p>My digital photography was exhibited along with other artists from technology companies at the Coastal Arts League gallery in Half Moon Bay, California.</p>
-
-<blockquote>
-<p>“I try and understand as much detail as possible about the subject so I can shoot it optimally,” said Gandhi. “Even so, when I look at the photograph I made, there are always interesting details I didn’t perceive in the moment.”</p>
-</blockquote>
-<p class="align-center"><a href="https://web.archive.org/web/20210728230307/http://web.archive.org/screenshot/https://www.hmbreview.com/arts_and_entertainment/exhibit-shows-ingenuity-knows-no-boundaries/article_21c74f96-08f9-11e7-bd26-63b8e0619827.html" target="_blank" rel="noopener noreferrer">Half Moon Bay Review</a></p>
-<p> </p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/14/gallery/DSCF1285.jpg" data-size="4896x3264"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/14/gallery/DSCF1285-thumbnail.jpg" alt="Matcha by Sid Gandhi" width="768" height="512"></a>
-<figcaption>Matcha</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/14/gallery/FullSizeRender.jpg" data-size="4857x3238"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/14/gallery/FullSizeRender-thumbnail.jpg" alt="Sensoji by Sid Gandhi" width="768" height="512"></a>
-<figcaption>Sensoji</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/14/gallery/DSCF2002.jpg" data-size="3264x4896"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/14/gallery/DSCF2002-thumbnail.jpg" alt="Navy Pier by Sid Gandhi" width="768" height="1152"></a>
-<figcaption>Navy Pier</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/14/gallery/DSCF1303.jpg" data-size="3264x4896"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/14/gallery/DSCF1303-thumbnail.jpg" alt="WTC by Sid Gandhi" width="768" height="1152"></a>
-<figcaption>WTC</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://sidhantgandhi.com/media/posts/14/gallery/DSCF2062.jpg" data-size="4896x3264"><img loading="lazy" src="https://sidhantgandhi.com/media/posts/14/gallery/DSCF2062-thumbnail.jpg" alt="Bean by Sid Gandhi" width="768" height="512"></a>
-<figcaption>Bean</figcaption>
-</figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Helped launch &quot;Hey Siri, book me an Uber&quot; at Apple</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/helped-launch-hey-siri-book-me-an-uber-at-apple/"/>
-        <id>https://sidhantgandhi.com/helped-launch-hey-siri-book-me-an-uber-at-apple/</id>
-            <category term="Technology"/>
-
-        <updated>2021-07-28T19:31:12-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/12/image14.jpg" alt="Sid Gandhi worked on iOS releases at Apple" />
-                    During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/12/image14.jpg" alt="Sid Gandhi worked on iOS releases at Apple" />
-                <p>During my work on iOS releases 9, 10 and 11 I wrote much of the API for ridesharing in Siri and Apple Maps and drove adoption with Uber, Lyft, Ola Cabs and DiDi. This allowed users to compare prices between different providers and take full rides without leaving Siri at all. After launch, my team supported 50k+ requests per week across millions of iPhones.</p>
-<p>I also helped the launch of the Apple Maps transit feature in Japan, which launched with <a href="https://web.archive.org/web/20210728224354/https://atadistance.net/2016/11/13/im-at-shinjuku-station-but-which-shinjuku-station-are-you-talking-about-a-review-of-apple-maps-japan-transit/" target="_blank" rel="noopener noreferrer">strong</a> <a href="https://web.archive.org/web/20210728224736/https://www.amvsement.com/2016/11/travel-japan-apple-maps-transport/" target="_blank" rel="noopener">reviews</a> for the detail-oriented design and features which helped users efficiently navigate Japan's complex transit system.</p>
             ]]>
         </content>
     </entry>
