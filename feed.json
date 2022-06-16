@@ -15,13 +15,14 @@
             "title": "Early thoughts on organization building and scaling",
             "summary": "To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than&hellip;",
             "content_html": "<p>To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than asking “who do we need to hire”, it’s more useful to ask “what functions of this job could we write software for”.</p>\n<p>From the very first hire, the job description needs to have day-to-day activities defined, and then struck off (by automating them) before ever posting the job description.</p>\n<p>To sustain this level of automation, there needs to be a high performance, dedicated team building the operating system of the org. This will mostly start with integrating and automating the existing applications for finance, accounting, sales, marketing, people management, software development, communication, etc. Eventually though, this team should think about re-writing each of these components to be fully customized for the organization.</p>\n<p>If we follow the model above, the next org benefit we can unlock is restricting FTEs to 10-20% of the workforce. These employees are not managers, they are strategic leaders. The management function should mostly be solved by software (goal setting, compensation, perf review, hr stuff).</p>\n<p>This frees &gt;80% of the workforce to be contractors, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>",
+            "image": "https://sidhantgandhi.com/media/posts/20/aditya-vyas-mHdATQY9fIU-unsplash.jpg",
             "author": {
                 "name": "Sid Gandhi"
             },
             "tags": [
             ],
             "date_published": "2022-06-16T13:26:40-04:00",
-            "date_modified": "2022-06-16T13:54:30-04:00"
+            "date_modified": "2022-06-16T14:56:51-04:00"
         },
         {
             "id": "https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/",
