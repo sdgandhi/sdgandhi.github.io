@@ -3,14 +3,38 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2022-03-21T22:14:35-04:00</updated>
+    <updated>2022-06-16T13:54:30-04:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sidhantgandhi.com</id>
 
     <entry>
-        <title>Quoted in TechCrunch and MIT Technology Review</title>
+        <title>Early thoughts on organization building and scaling</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/"/>
+        <id>https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/</id>
+
+        <updated>2022-06-16T13:54:30-04:00</updated>
+            <summary>
+                <![CDATA[
+                    To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than asking “who do we need to hire”, it’s more useful to ask “what functions of this job could we write software for”.</p>
+<p>From the very first hire, the job description needs to have day-to-day activities defined, and then struck off (by automating them) before ever posting the job description.</p>
+<p>To sustain this level of automation, there needs to be a high performance, dedicated team building the operating system of the org. This will mostly start with integrating and automating the existing applications for finance, accounting, sales, marketing, people management, software development, communication, etc. Eventually though, this team should think about re-writing each of these components to be fully customized for the organization.</p>
+<p>If we follow the model above, the next org benefit we can unlock is restricting FTEs to 10-20% of the workforce. These employees are not managers, they are strategic leaders. The management function should mostly be solved by software (goal setting, compensation, perf review, hr stuff).</p>
+<p>This frees &gt;80% of the workforce to be contractors, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Talking about autonomous vehicle simulation in TechCrunch and MIT Technology Review</title>
         <author>
             <name>Sid Gandhi</name>
         </author>
@@ -18,7 +42,7 @@
         <id>https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/</id>
             <category term="Technology"/>
 
-        <updated>2022-03-21T22:14:29-04:00</updated>
+        <updated>2022-06-16T13:24:19-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/19/Frame-131-2.png" alt="Sid Gandhi quoted in TechCrunch and MIT Technology Review" />
@@ -276,29 +300,6 @@
             <![CDATA[
                     <img src="https://sidhantgandhi.com/media/posts/10/image02.jpg" alt="Sid Gandhi speaking at Gartner Security &amp; Risk Summit" />
                 <p>As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security Summit in National Harbor, MD describing new ways to report and analyze cybersecurity data.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Part of the U.S. Delegation to the Global Entrepreneurship Summit</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/"/>
-        <id>https://sidhantgandhi.com/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/</id>
-            <category term="Conference"/>
-
-        <updated>2021-07-28T18:00:48-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/11/image13.jpg" alt="Sid Gandhi at the Global Entrepreneurship Summit 2017" />
-                    Hyderabad, India -- I attended GES as part fo the US delegation, representing technology entrepreneurs at this global conference backed&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/11/image13.jpg" alt="Sid Gandhi at the Global Entrepreneurship Summit 2017" />
-                <p>Hyderabad, India -- I attended <a href="https://in.usembassy.gov/global-entrepreneurship-summit-2017-held-hyderabad-november-28-30/" target="_blank" rel="noopener">GES as part fo the US delegation</a>, representing technology entrepreneurs at this global conference backed by the US Federal Government.</p>
             ]]>
         </content>
     </entry>

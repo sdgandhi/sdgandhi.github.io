@@ -10,9 +10,23 @@
     },
     "items": [
         {
+            "id": "https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/",
+            "url": "https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/",
+            "title": "Early thoughts on organization building and scaling",
+            "summary": "To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than&hellip;",
+            "content_html": "<p>To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than asking “who do we need to hire”, it’s more useful to ask “what functions of this job could we write software for”.</p>\n<p>From the very first hire, the job description needs to have day-to-day activities defined, and then struck off (by automating them) before ever posting the job description.</p>\n<p>To sustain this level of automation, there needs to be a high performance, dedicated team building the operating system of the org. This will mostly start with integrating and automating the existing applications for finance, accounting, sales, marketing, people management, software development, communication, etc. Eventually though, this team should think about re-writing each of these components to be fully customized for the organization.</p>\n<p>If we follow the model above, the next org benefit we can unlock is restricting FTEs to 10-20% of the workforce. These employees are not managers, they are strategic leaders. The management function should mostly be solved by software (goal setting, compensation, perf review, hr stuff).</p>\n<p>This frees &gt;80% of the workforce to be contractors, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>",
+            "author": {
+                "name": "Sid Gandhi"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-16T13:26:40-04:00",
+            "date_modified": "2022-06-16T13:54:30-04:00"
+        },
+        {
             "id": "https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/",
             "url": "https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/",
-            "title": "Quoted in TechCrunch and MIT Technology Review",
+            "title": "Talking about autonomous vehicle simulation in TechCrunch and MIT Technology Review",
             "summary": "MIT Technology Review https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/ https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/ ",
             "content_html": "<h2>MIT Technology Review</h2>\n<h2><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sidhantgandhi.com/media/posts/19/Screen-Shot-2022-03-21-at-9.48.51-PM.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.48.51-PM-xs.png 300w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.48.51-PM-sm.png 480w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.48.51-PM-md.png 768w\"  alt=\"\" width=\"1484\" height=\"1586\"></figure></h2>\n<p><a href=\"https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/\">https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/</a> </p>\n<h2>TechCrunch</h2>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sidhantgandhi.com/media/posts/19/Screen-Shot-2022-03-21-at-9.51.00-PM.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.51.00-PM-xs.png 300w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.51.00-PM-sm.png 480w ,https://sidhantgandhi.com/media/posts/19/responsive/Screen-Shot-2022-03-21-at-9.51.00-PM-md.png 768w\"  alt=\"\" width=\"2236\" height=\"1590\"></figure>\n<p><a href=\"https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/\">https://techcrunch.com/2021/11/05/cruise-lays-out-its-plan-for-how-it-will-make-robotaxis-a-reality/</a> </p>",
             "image": "https://sidhantgandhi.com/media/posts/19/Frame-131-2.png",
@@ -23,7 +37,7 @@
                    "Technology"
             ],
             "date_published": "2022-03-21T22:08:26-04:00",
-            "date_modified": "2022-03-21T22:14:29-04:00"
+            "date_modified": "2022-06-16T13:24:19-04:00"
         },
         {
             "id": "https://sidhantgandhi.com/speaker-at-cruise-under-the-hood/",
@@ -155,22 +169,6 @@
             ],
             "date_published": "2019-06-16T17:46:00-04:00",
             "date_modified": "2021-07-28T18:35:34-04:00"
-        },
-        {
-            "id": "https://sidhantgandhi.com/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/",
-            "url": "https://sidhantgandhi.com/part-of-the-us-delegation-to-the-global-entrepreneurship-summit/",
-            "title": "Part of the U.S. Delegation to the Global Entrepreneurship Summit",
-            "summary": "Hyderabad, India -- I attended GES as part fo the US delegation, representing technology entrepreneurs at this global conference backed&hellip;",
-            "content_html": "<p>Hyderabad, India -- I attended <a href=\"https://in.usembassy.gov/global-entrepreneurship-summit-2017-held-hyderabad-november-28-30/\" target=\"_blank\" rel=\"noopener\">GES as part fo the US delegation</a>, representing technology entrepreneurs at this global conference backed by the US Federal Government.</p>",
-            "image": "https://sidhantgandhi.com/media/posts/11/image13.jpg",
-            "author": {
-                "name": "Sid Gandhi"
-            },
-            "tags": [
-                   "Conference"
-            ],
-            "date_published": "2017-11-18T17:53:00-05:00",
-            "date_modified": "2021-07-28T18:00:48-04:00"
         }
     ]
 }
