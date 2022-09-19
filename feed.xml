@@ -3,7 +3,7 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2022-06-16T14:56:51-04:00</updated>
+    <updated>2022-09-19T17:33:43-04:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/"/>
         <id>https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/</id>
 
-        <updated>2022-06-16T14:56:51-04:00</updated>
+        <updated>2022-09-19T17:33:43-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/20/aditya-vyas-mHdATQY9fIU-unsplash.jpg" alt="" />
@@ -31,7 +31,7 @@
 <p>From the very first hire, the job description needs to have day-to-day activities defined, and then struck off (by automating them) before ever posting the job description.</p>
 <p>To sustain this level of automation, there needs to be a high performance, dedicated team building the operating system of the org. This will mostly start with integrating and automating the existing applications for finance, accounting, sales, marketing, people management, software development, communication, etc. Eventually though, this team should think about re-writing each of these components to be fully customized for the organization.</p>
 <p>If we follow the model above, the next org benefit we can unlock is restricting FTEs to 10-20% of the workforce. These employees are not managers, they are strategic leaders. The management function should mostly be solved by software (goal setting, compensation, perf review, hr stuff).</p>
-<p>This frees &gt;80% of the workforce to be contractors, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>
+<p>This frees &gt;80% of the workforce to be flexible, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>
             ]]>
         </content>
     </entry>
