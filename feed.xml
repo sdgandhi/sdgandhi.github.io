@@ -3,12 +3,40 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2022-09-19T17:33:43-04:00</updated>
+    <updated>2023-01-31T12:04:54-05:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sidhantgandhi.com</id>
 
+    <entry>
+        <title>Sid Gandhi Bio</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/bio/"/>
+        <id>https://sidhantgandhi.com/bio/</id>
+
+        <updated>2023-01-31T12:04:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                     This is a public bio for Sid Gandhi and can be used as a source for conferences, panels and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/21/sg-profile.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/21/responsive/sg-profile-xs.jpeg 300w ,https://sidhantgandhi.com/media/posts/21/responsive/sg-profile-sm.jpeg 480w ,https://sidhantgandhi.com/media/posts/21/responsive/sg-profile-md.jpeg 768w"  alt="Sid Gandhi's headshot" width="1000" height="1000"></figure>
+<p><em>This is a public bio for Sid Gandhi and can be used as a source for conferences, panels and articles.</em></p>
+<p>Sid Gandhi is a technology leader and entrepreneur. He is currently CEO of web3 database company <a href="https://polybase.xyz/" title="Polybase — The web3 database" target="_blank" rel="noopener">Polybase</a>, where he is on a mission to restore humanity's control of its information.</p>
+<p class="align-left">Previous to co-founding Polybase, he led product and technical strategy for simulation at <a href="https://getcruise.com" target="_blank" rel="noopener">Cruise</a> where simulation frameworks were running 200k+ hours of autonomous driving a day, generating petabytes of data.</p>
+<p>Before joining Cruise, Sid co-founded Hmatix Cybersecurity to solve network security challenges for healthcare as a result of WannaCry and other ransomware attacks. The team deployed solutions at Kaiser Permanente, Mayo Clinic and other hospitals.</p>
+<p>Sid led product at software consulting firm <a href="https://moback.com" target="_blank" rel="noopener">Moback</a> where he built teams for Fortune 500 clients focused on robotics and simulation and grew revenue from key clients by 6x.</p>
+<p>Before Moback, Sid was a software engineer at Apple where he was the tech lead for "Hey Siri, get me an Uber" and other iOS projects for releases 9, 10 and 11 including Apple Maps Transit.</p>
+<p class="align-left">Sid's alma mater is the <a href="https://usc.edu" target="_blank" rel="noopener">University of Southern California</a> (USC), where he served on the executive board of the Business Film Festival, was a project lead for pro bono consulting organization LACI and performed with the award winning a cappella team Asli Baat.</p>
+<p>He has given talks and presentations at <a href="https://www.youtube.com/watch?v=7BF34b4EMz8" title="Sid Gandhi speaking at Cruise Under the Hood" rel="nofollow noopener" target="_blank"></a><a href="https://sidhantgandhi.com/speaker-at-cruise-under-the-hood/" title="Sid Gandhi speaking at Cruise Under the Hood" target="_blank" rel="noopener noreferrer">Cruise</a>, <a href="https://sidhantgandhi.com/speaker-at-gartner-security-and-risk-summit/" target="_blank" rel="noopener noreferrer">Gartner</a>, French Consulate and others on infrastructure, cybersecurity, AR and <a href="https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/" target="_blank" rel="noopener noreferrer">deepfakes</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Early thoughts on organization building and scaling</title>
         <author>
@@ -16,8 +44,9 @@
         </author>
         <link href="https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/"/>
         <id>https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/</id>
+            <category term="Startups"/>
 
-        <updated>2022-09-19T17:33:43-04:00</updated>
+        <updated>2023-01-31T11:54:40-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/20/aditya-vyas-mHdATQY9fIU-unsplash.jpg" alt="" />
@@ -36,7 +65,7 @@
         </content>
     </entry>
     <entry>
-        <title>Talking about autonomous vehicle simulation in TechCrunch and MIT Technology Review</title>
+        <title>Quoted in TechCrunch and MIT Technology Review</title>
         <author>
             <name>Sid Gandhi</name>
         </author>
@@ -44,7 +73,7 @@
         <id>https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/</id>
             <category term="Technology"/>
 
-        <updated>2022-06-16T13:24:19-04:00</updated>
+        <updated>2023-01-31T11:53:56-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sidhantgandhi.com/media/posts/19/Frame-131-2.png" alt="Sid Gandhi quoted in TechCrunch and MIT Technology Review" />
@@ -279,29 +308,6 @@
             <![CDATA[
                     <img src="https://sidhantgandhi.com/media/posts/9/image11.jpg" alt="Deepcheck by DFBlue" />
                 <p>Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and more to help you be more aware of the organizations or people running the website.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Speaker at Gartner Security &amp; Risk Summit</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/speaker-at-gartner-security-and-risk-summit/"/>
-        <id>https://sidhantgandhi.com/speaker-at-gartner-security-and-risk-summit/</id>
-            <category term="Conference"/>
-
-        <updated>2021-07-28T18:35:34-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/10/image02.jpg" alt="Sid Gandhi speaking at Gartner Security &amp; Risk Summit" />
-                    As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/10/image02.jpg" alt="Sid Gandhi speaking at Gartner Security &amp; Risk Summit" />
-                <p>As co-founder of Hmatix responsible for our cybersecurity data analytics and visualization, I gave a talk at the Gartner Security Summit in National Harbor, MD describing new ways to report and analyze cybersecurity data.</p>
             ]]>
         </content>
     </entry>
