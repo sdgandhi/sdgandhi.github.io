@@ -3,12 +3,36 @@
     <title>Sid Gandhi</title>
     <link href="https://sidhantgandhi.com/feed.xml" rel="self" />
     <link href="https://sidhantgandhi.com" />
-    <updated>2023-01-31T12:04:54-05:00</updated>
+    <updated>2023-10-02T15:47:00-04:00</updated>
     <author>
         <name>Sid Gandhi</name>
     </author>
     <id>https://sidhantgandhi.com</id>
 
+    <entry>
+        <title>Speaker at SmartCon 2023 (Barcelona)</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/speaker-at-smartcon-2023-barcelona/"/>
+        <id>https://sidhantgandhi.com/speaker-at-smartcon-2023-barcelona/</id>
+
+        <updated>2023-10-02T15:47:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/22/Sid_Gandhi-2.jpg" alt="Sid Gandhi&#x27;s speaker card for SmartCon 2023" />
+                    I'll be speaking on topics of web3/blockchain infrastructure at SmartCon 2023 in Barcelona. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/22/Sid_Gandhi-2.jpg" alt="Sid Gandhi&#x27;s speaker card for SmartCon 2023" />
+                <p>I'll be speaking on topics of web3/blockchain infrastructure at SmartCon 2023 in Barcelona.</p>
+<figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/22/Sid_Gandhi.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-xs.jpg 300w ,https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-sm.jpg 480w ,https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-md.jpg 768w"  alt="Sid Gandhi's speaker card for SmartCon 2023" width="2500" height="1406"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/22/smartcon.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/22/responsive/smartcon-xs.png 300w ,https://sidhantgandhi.com/media/posts/22/responsive/smartcon-sm.png 480w ,https://sidhantgandhi.com/media/posts/22/responsive/smartcon-md.png 768w"  alt="SmartCon 2023 website screenshot" width="2880" height="11975"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sid Gandhi Bio</title>
         <author>
@@ -285,29 +309,6 @@
 <li>What are the ethical uses of deepfakes in the world of Advertising &amp; Entertainment?</li>
 </ul>
 <p><a href="https://pub.dfblue.com/pub/2019-10-25-deepfake-fake-news-or-powerful-tool" target="_blank" rel="noopener noreferrer">More details</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Launched Deepcheck — The internet&#x27;s missing reputation checker</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/"/>
-        <id>https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/</id>
-            <category term="Technology"/>
-
-        <updated>2021-07-28T17:47:39-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/9/image11.jpg" alt="Deepcheck by DFBlue" />
-                    Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/9/image11.jpg" alt="Deepcheck by DFBlue" />
-                <p>Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and more to help you be more aware of the organizations or people running the website.</p>
             ]]>
         </content>
     </entry>

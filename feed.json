@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sidhantgandhi.com/speaker-at-smartcon-2023-barcelona/",
+            "url": "https://sidhantgandhi.com/speaker-at-smartcon-2023-barcelona/",
+            "title": "Speaker at SmartCon 2023 (Barcelona)",
+            "summary": "I'll be speaking on topics of web3/blockchain infrastructure at SmartCon 2023 in Barcelona. ",
+            "content_html": "<p>I'll be speaking on topics of web3/blockchain infrastructure at SmartCon 2023 in Barcelona.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sidhantgandhi.com/media/posts/22/Sid_Gandhi.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-xs.jpg 300w ,https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-sm.jpg 480w ,https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-md.jpg 768w\"  alt=\"Sid Gandhi's speaker card for SmartCon 2023\" width=\"2500\" height=\"1406\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sidhantgandhi.com/media/posts/22/smartcon.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://sidhantgandhi.com/media/posts/22/responsive/smartcon-xs.png 300w ,https://sidhantgandhi.com/media/posts/22/responsive/smartcon-sm.png 480w ,https://sidhantgandhi.com/media/posts/22/responsive/smartcon-md.png 768w\"  alt=\"SmartCon 2023 website screenshot\" width=\"2880\" height=\"11975\"></figure>",
+            "image": "https://sidhantgandhi.com/media/posts/22/Sid_Gandhi-2.jpg",
+            "author": {
+                "name": "Sid Gandhi"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-02T15:47:00-04:00",
+            "date_modified": "2023-10-02T15:47:00-04:00"
+        },
+        {
             "id": "https://sidhantgandhi.com/bio/",
             "url": "https://sidhantgandhi.com/bio/",
             "title": "Sid Gandhi Bio",
@@ -153,22 +168,6 @@
             ],
             "date_published": "2019-10-25T14:51:00-04:00",
             "date_modified": "2021-08-18T20:47:53-04:00"
-        },
-        {
-            "id": "https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/",
-            "url": "https://sidhantgandhi.com/launched-deepcheck-the-internets-missing-reputation-checker/",
-            "title": "Launched Deepcheck — The internet&#x27;s missing reputation checker",
-            "summary": "Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and&hellip;",
-            "content_html": "<p>Deepcheck is a Chrome browser extension that researches the webpage you're currently browsing: the website rank, author, twitter followers, and more to help you be more aware of the organizations or people running the website.</p>",
-            "image": "https://sidhantgandhi.com/media/posts/9/image11.jpg",
-            "author": {
-                "name": "Sid Gandhi"
-            },
-            "tags": [
-                   "Technology"
-            ],
-            "date_published": "2019-08-19T14:55:00-04:00",
-            "date_modified": "2021-07-28T17:47:39-04:00"
         }
     ]
 }
