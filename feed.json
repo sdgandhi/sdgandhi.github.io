@@ -26,6 +26,23 @@
             "date_modified": "2023-10-02T15:47:00-04:00"
         },
         {
+            "id": "https://sidhantgandhi.com/nft-nyc-2023-panelist/",
+            "url": "https://sidhantgandhi.com/nft-nyc-2023-panelist/",
+            "title": "NFT NYC 2023 panelist",
+            "summary": " I was on a panel at NFT NYC 2023 for the \"future\" track, discussing the future of real world&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sidhantgandhi.com/media/posts/24/FqO7lLZaIAAsWP5-2.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://sidhantgandhi.com/media/posts/24/responsive/FqO7lLZaIAAsWP5-2-xs.png 300w ,https://sidhantgandhi.com/media/posts/24/responsive/FqO7lLZaIAAsWP5-2-sm.png 480w ,https://sidhantgandhi.com/media/posts/24/responsive/FqO7lLZaIAAsWP5-2-md.png 768w\"  alt=\"Sid Gandhi speaking at NFT NYC 2023 in New York City\" width=\"800\" height=\"800\"></figure>\n<p>I was on a panel at NFT NYC 2023 for the \"future\" track, discussing the future of real world use cases of web3 and NFTs. I focused the discussion on the underlying value of decentralized ownership and fast asset transfer.</p>\n<p> </p>",
+            "image": "https://sidhantgandhi.com/media/posts/24/Screenshot-2023-08-21-at-4.24.21-PM.png",
+            "author": {
+                "name": "Sid Gandhi"
+            },
+            "tags": [
+                   "Technology",
+                   "Conference"
+            ],
+            "date_published": "2023-08-21T16:29:30-04:00",
+            "date_modified": "2023-08-21T16:29:30-04:00"
+        },
+        {
             "id": "https://sidhantgandhi.com/speaking-about-zero-knowledge-proofs-at-filecoin-unleashed-paris/",
             "url": "https://sidhantgandhi.com/speaking-about-zero-knowledge-proofs-at-filecoin-unleashed-paris/",
             "title": "Speaking about zero knowledge proofs at Filecoin Unleashed Paris",
@@ -55,22 +72,6 @@
             ],
             "date_published": "2023-01-31T11:26:25-05:00",
             "date_modified": "2023-01-31T12:04:54-05:00"
-        },
-        {
-            "id": "https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/",
-            "url": "https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/",
-            "title": "Early thoughts on organization building and scaling",
-            "summary": "To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than&hellip;",
-            "content_html": "<p>To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than asking “who do we need to hire”, it’s more useful to ask “what functions of this job could we write software for”.</p>\n<p>From the very first hire, the job description needs to have day-to-day activities defined, and then struck off (by automating them) before ever posting the job description.</p>\n<p>To sustain this level of automation, there needs to be a high performance, dedicated team building the operating system of the org. This will mostly start with integrating and automating the existing applications for finance, accounting, sales, marketing, people management, software development, communication, etc. Eventually though, this team should think about re-writing each of these components to be fully customized for the organization.</p>\n<p>If we follow the model above, the next org benefit we can unlock is restricting FTEs to 10-20% of the workforce. These employees are not managers, they are strategic leaders. The management function should mostly be solved by software (goal setting, compensation, perf review, hr stuff).</p>\n<p>This frees &gt;80% of the workforce to be flexible, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>",
-            "image": "https://sidhantgandhi.com/media/posts/20/aditya-vyas-mHdATQY9fIU-unsplash.jpg",
-            "author": {
-                "name": "Sid Gandhi"
-            },
-            "tags": [
-                   "Startups"
-            ],
-            "date_published": "2022-06-16T13:26:40-04:00",
-            "date_modified": "2023-01-31T11:54:40-05:00"
         },
         {
             "id": "https://sidhantgandhi.com/quoted-in-techcrunch-and-mit-technology-review/",

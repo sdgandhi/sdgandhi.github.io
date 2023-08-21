@@ -35,6 +35,32 @@
         </content>
     </entry>
     <entry>
+        <title>NFT NYC 2023 panelist</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/nft-nyc-2023-panelist/"/>
+        <id>https://sidhantgandhi.com/nft-nyc-2023-panelist/</id>
+            <category term="Technology"/>
+            <category term="Conference"/>
+
+        <updated>2023-08-21T16:29:30-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/24/Screenshot-2023-08-21-at-4.24.21-PM.png" alt="" />
+                     I was on a panel at NFT NYC 2023 for the "future" track, discussing the future of real world&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/24/Screenshot-2023-08-21-at-4.24.21-PM.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/24/FqO7lLZaIAAsWP5-2.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/24/responsive/FqO7lLZaIAAsWP5-2-xs.png 300w ,https://sidhantgandhi.com/media/posts/24/responsive/FqO7lLZaIAAsWP5-2-sm.png 480w ,https://sidhantgandhi.com/media/posts/24/responsive/FqO7lLZaIAAsWP5-2-md.png 768w"  alt="Sid Gandhi speaking at NFT NYC 2023 in New York City" width="800" height="800"></figure>
+<p>I was on a panel at NFT NYC 2023 for the "future" track, discussing the future of real world use cases of web3 and NFTs. I focused the discussion on the underlying value of decentralized ownership and fast asset transfer.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Speaking about zero knowledge proofs at Filecoin Unleashed Paris</title>
         <author>
             <name>Sid Gandhi</name>
@@ -86,33 +112,6 @@
 <p>Before Moback, Sid was a software engineer at Apple where he was the tech lead for "Hey Siri, get me an Uber" and other iOS projects for releases 9, 10 and 11 including Apple Maps Transit.</p>
 <p class="align-left">Sid's alma mater is the <a href="https://usc.edu" target="_blank" rel="noopener">University of Southern California</a> (USC), where he served on the executive board of the Business Film Festival, was a project lead for pro bono consulting organization LACI and performed with the award winning a cappella team Asli Baat.</p>
 <p>He has given talks and presentations at <a href="https://www.youtube.com/watch?v=7BF34b4EMz8" title="Sid Gandhi speaking at Cruise Under the Hood" rel="nofollow noopener" target="_blank"></a><a href="https://sidhantgandhi.com/speaker-at-cruise-under-the-hood/" title="Sid Gandhi speaking at Cruise Under the Hood" target="_blank" rel="noopener noreferrer">Cruise</a>, <a href="https://sidhantgandhi.com/speaker-at-gartner-security-and-risk-summit/" target="_blank" rel="noopener noreferrer">Gartner</a>, French Consulate and others on infrastructure, cybersecurity, AR and <a href="https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/" target="_blank" rel="noopener noreferrer">deepfakes</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Early thoughts on organization building and scaling</title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/"/>
-        <id>https://sidhantgandhi.com/early-thoughts-on-organization-building-and-scaling/</id>
-            <category term="Startups"/>
-
-        <updated>2023-01-31T11:54:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/20/aditya-vyas-mHdATQY9fIU-unsplash.jpg" alt="" />
-                    To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/20/aditya-vyas-mHdATQY9fIU-unsplash.jpg" alt="" />
-                <p>To gain agility and profit margin advantage over older organizations, new orgs need to be built fundamentally differently. Rather than asking “who do we need to hire”, it’s more useful to ask “what functions of this job could we write software for”.</p>
-<p>From the very first hire, the job description needs to have day-to-day activities defined, and then struck off (by automating them) before ever posting the job description.</p>
-<p>To sustain this level of automation, there needs to be a high performance, dedicated team building the operating system of the org. This will mostly start with integrating and automating the existing applications for finance, accounting, sales, marketing, people management, software development, communication, etc. Eventually though, this team should think about re-writing each of these components to be fully customized for the organization.</p>
-<p>If we follow the model above, the next org benefit we can unlock is restricting FTEs to 10-20% of the workforce. These employees are not managers, they are strategic leaders. The management function should mostly be solved by software (goal setting, compensation, perf review, hr stuff).</p>
-<p>This frees &gt;80% of the workforce to be flexible, unlocking tremendous benefits in tactical agility, risk mitigation and financial planning.</p>
             ]]>
         </content>
     </entry>
