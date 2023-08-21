@@ -16,6 +16,7 @@
         </author>
         <link href="https://sidhantgandhi.com/speaker-at-smartcon-2023-barcelona/"/>
         <id>https://sidhantgandhi.com/speaker-at-smartcon-2023-barcelona/</id>
+            <category term="Conference"/>
 
         <updated>2023-10-02T15:47:00-04:00</updated>
             <summary>
@@ -30,6 +31,33 @@
                 <p>I'll be speaking on topics of web3/blockchain infrastructure at SmartCon 2023 in Barcelona.</p>
 <figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/22/Sid_Gandhi.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-xs.jpg 300w ,https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-sm.jpg 480w ,https://sidhantgandhi.com/media/posts/22/responsive/Sid_Gandhi-md.jpg 768w"  alt="Sid Gandhi's speaker card for SmartCon 2023" width="2500" height="1406"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://sidhantgandhi.com/media/posts/22/smartcon.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://sidhantgandhi.com/media/posts/22/responsive/smartcon-xs.png 300w ,https://sidhantgandhi.com/media/posts/22/responsive/smartcon-sm.png 480w ,https://sidhantgandhi.com/media/posts/22/responsive/smartcon-md.png 768w"  alt="SmartCon 2023 website screenshot" width="2880" height="11975"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Speaking about zero knowledge proofs at Filecoin Unleashed Paris</title>
+        <author>
+            <name>Sid Gandhi</name>
+        </author>
+        <link href="https://sidhantgandhi.com/speaking-about-zero-knowledge-proofs-at-filecoin-unleashed-paris/"/>
+        <id>https://sidhantgandhi.com/speaking-about-zero-knowledge-proofs-at-filecoin-unleashed-paris/</id>
+            <category term="Technology"/>
+            <category term="Conference"/>
+
+        <updated>2023-08-21T16:21:36-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sidhantgandhi.com/media/posts/23/sid-gandhi-filecoin-unleashed.jpg" alt="" />
+                    Filecoin Unleashed was an event put together by Protocol Labs (the creators of Filecoin) during EthCC 2023 in Paris. I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sidhantgandhi.com/media/posts/23/sid-gandhi-filecoin-unleashed.jpg" alt="" />
+                <p>Filecoin Unleashed was an event put together by Protocol Labs (the creators of Filecoin) during EthCC 2023 in Paris.</p>
+<p>I was invited to speak about how Polybase is helping a Filecoin team manage their database of service provider reputation in a decentralized and secure way on Polybase.</p>
+<p>I also touch on some of the innovations in ZK (zero knowledge cryptography) that Polybase is working on.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/BAQy_kWBljk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -278,37 +306,6 @@
 <p>We find ourselves moving from one task to the next, one notification after another. We don't get the idle time of old when our thoughts might drift to a friend or family member.</p>
 <p>If we could keep in touch with our loved ones we would have more fulfilling relationships and feel less lonely. <em>Ketchup</em> helps you do just that, keep in touch. Not with profiles, but with meaningful conversations...like the old days.</p>
 <p><a href="https://ketchup.newnoetic.com" title="Check out Ketchup ↗" target="_blank" rel="noopener noreferrer">Check out Ketchup ↗</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hosted the first-ever conference on Deepfakes </title>
-        <author>
-            <name>Sid Gandhi</name>
-        </author>
-        <link href="https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/"/>
-        <id>https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/</id>
-            <category term="Technology"/>
-            <category term="Conference"/>
-
-        <updated>2021-08-18T20:47:53-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sidhantgandhi.com/media/posts/8/image08.jpg" alt="Deepfake conference with DFBlue" />
-                    On Sept. 5, DFBlue hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://sidhantgandhi.com/media/posts/8/image08.jpg" alt="Deepfake conference with DFBlue" />
-                <p>On Sept. 5, <a href="https://dfblue.com/" target="_blank" rel="noopener">DFBlue</a> hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which was a discussion on what’s possible with Deepfake technology and how it can be used ethically.</p>
-<p><strong>The questions we answered are:</strong></p>
-<ul>
-<li>What is possible with today’s deepfake technology?</li>
-<li>How can we detect deepfakes?</li>
-<li>What are the ethical uses of deepfakes in the world of Advertising &amp; Entertainment?</li>
-</ul>
-<p><a href="https://pub.dfblue.com/pub/2019-10-25-deepfake-fake-news-or-powerful-tool" target="_blank" rel="noopener noreferrer">More details</a></p>
             ]]>
         </content>
     </entry>

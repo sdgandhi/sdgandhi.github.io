@@ -20,9 +20,27 @@
                 "name": "Sid Gandhi"
             },
             "tags": [
+                   "Conference"
             ],
             "date_published": "2023-10-02T15:47:00-04:00",
             "date_modified": "2023-10-02T15:47:00-04:00"
+        },
+        {
+            "id": "https://sidhantgandhi.com/speaking-about-zero-knowledge-proofs-at-filecoin-unleashed-paris/",
+            "url": "https://sidhantgandhi.com/speaking-about-zero-knowledge-proofs-at-filecoin-unleashed-paris/",
+            "title": "Speaking about zero knowledge proofs at Filecoin Unleashed Paris",
+            "summary": "Filecoin Unleashed was an event put together by Protocol Labs (the creators of Filecoin) during EthCC 2023 in Paris. I&hellip;",
+            "content_html": "<p>Filecoin Unleashed was an event put together by Protocol Labs (the creators of Filecoin) during EthCC 2023 in Paris.</p>\n<p>I was invited to speak about how Polybase is helping a Filecoin team manage their database of service provider reputation in a decentralized and secure way on Polybase.</p>\n<p>I also touch on some of the innovations in ZK (zero knowledge cryptography) that Polybase is working on.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BAQy_kWBljk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://sidhantgandhi.com/media/posts/23/sid-gandhi-filecoin-unleashed.jpg",
+            "author": {
+                "name": "Sid Gandhi"
+            },
+            "tags": [
+                   "Technology",
+                   "Conference"
+            ],
+            "date_published": "2023-07-18T14:20:00-04:00",
+            "date_modified": "2023-08-21T16:21:36-04:00"
         },
         {
             "id": "https://sidhantgandhi.com/bio/",
@@ -151,23 +169,6 @@
             ],
             "date_published": "2020-08-20T16:42:00-04:00",
             "date_modified": "2021-07-28T18:55:46-04:00"
-        },
-        {
-            "id": "https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/",
-            "url": "https://sidhantgandhi.com/hosted-the-first-ever-conference-on-deepfakes/",
-            "title": "Hosted the first-ever conference on Deepfakes ",
-            "summary": "On Sept. 5, DFBlue hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which&hellip;",
-            "content_html": "<p>On Sept. 5, <a href=\"https://dfblue.com/\" target=\"_blank\" rel=\"noopener\">DFBlue</a> hosted an event in New York City called “Deepfake — Fake News or Powerful tool?” which was a discussion on what’s possible with Deepfake technology and how it can be used ethically.</p>\n<p><strong>The questions we answered are:</strong></p>\n<ul>\n<li>What is possible with today’s deepfake technology?</li>\n<li>How can we detect deepfakes?</li>\n<li>What are the ethical uses of deepfakes in the world of Advertising &amp; Entertainment?</li>\n</ul>\n<p><a href=\"https://pub.dfblue.com/pub/2019-10-25-deepfake-fake-news-or-powerful-tool\" target=\"_blank\" rel=\"noopener noreferrer\">More details</a></p>",
-            "image": "https://sidhantgandhi.com/media/posts/8/image08.jpg",
-            "author": {
-                "name": "Sid Gandhi"
-            },
-            "tags": [
-                   "Technology",
-                   "Conference"
-            ],
-            "date_published": "2019-10-25T14:51:00-04:00",
-            "date_modified": "2021-08-18T20:47:53-04:00"
         }
     ]
 }
